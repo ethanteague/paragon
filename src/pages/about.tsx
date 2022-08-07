@@ -173,7 +173,7 @@ const About = () => (
               </ul>
 
               <h2 className="mb-5 text-3xl md:text-4xl text-coolGray-900 font-bold tracking-tighter">
-                Federal Contractiong Information
+                Federal Contracting Information
               </h2>
               <ul>
                 <li className="inline-flex relative items-center py-2 px-4 w-full text-sm font-medium border-b border-gray-200 dark:focus:ring-gray-500 dark:focus:text-white">
